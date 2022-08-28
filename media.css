@@ -1,0 +1,20 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {
+    .hero {
+        flex-direction: column;
+    }
+}
+@media (max-width: 1440px) {}
+@media (max-width: 1440px) {}
+@media (max-width: 1440px) {}
+@media (max-width: 1440px) {}
+@media (max-width: 1440px) {}
+@media (max-width: 1440px) {}
+@media (max-width: 1440px) {}
+@media (max-width: 1440px) {}
+@media (max-width: 1440px) {}
+
